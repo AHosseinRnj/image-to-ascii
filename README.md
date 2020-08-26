@@ -10,9 +10,9 @@
 - at least JDK 13 Or More 
 
 ## Download
-You can download binary from releases:
+You Can Download Binary Files From:
 
-[https://github.com/AHosseinRnj/](https://github.com/AHosseinRnj/)
+[https://github.com/AHosseinRnj/image-to-ascii/releases](https://github.com/AHosseinRnj/image-to-ascii/releases)
 
 # Licence
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
