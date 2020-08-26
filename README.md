@@ -1,5 +1,5 @@
 # Image To ASCII
->Just a Basic App That Converts Image into ASCII
+>Just a basic App that converts Image into ASCII
 
 ### Software Pictures
 | MainForm | OutPut |
@@ -10,7 +10,7 @@
 - at least JDK 13 Or More 
 
 ## Download
-You Can Download Binary Files From:
+You can download binary files from:
 
 [https://github.com/AHosseinRnj/image-to-ascii/releases](https://github.com/AHosseinRnj/image-to-ascii/releases)
 
